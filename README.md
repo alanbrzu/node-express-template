@@ -2,7 +2,9 @@
 
 ## Usage
 
-Create a `.env` file with the PORT variable
+Install dependencies with `yarn` or `yarn install`
+
+Create an `.env` file in the root with a `PORT` variable
 
 Development: `yarn dev`
 
